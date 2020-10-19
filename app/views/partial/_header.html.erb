@@ -6,7 +6,7 @@
       <li>
         <ul class="header_menu_inner">
           <li><%= link_to "リストを作成", "#", class: "nav-link listNew" %></li>
-          <li><%= link_to "サインアウト", destroy_user_session_path, class: "nav-link" %></li>
+          <li><%= link_to "サインアウト", destroy_user_session_path, class: "nav-link", method: :delete %></li>
         </ul>
       </li>
     </ul>
