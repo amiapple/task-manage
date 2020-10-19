@@ -1,6 +1,6 @@
 <%- if controller_name != 'sessions' %>
-  <%= link_to "Log in", new_session_path(resource_name) %><br />
-<% end %>
+  <p class="acountPage_link"><%= link_to "アカウントにサインイン", new_session_path(resource_name) %></p>
+<% end -%>
 
 <%- if devise_mapping.registerable? && controller_name != 'registrations' %>
   <p class="acountPage_link"><%= link_to "アカウントを作成", new_registration_path(resource_name) %></p>
