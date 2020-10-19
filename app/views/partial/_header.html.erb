@@ -1,7 +1,7 @@
 <header class="header">
   <nav class="nav">
     <ul class="header_menu">
-      <li class="nav-link">〇〇さん</li>
+      <li class="nav-link"><%= current_user.name %>さん</li>
       <li class="header_menu_title"><%= link_to "task manage", root_path, class: "nav-link" %></li>
       <li>
         <ul class="header_menu_inner">
