@@ -16,6 +16,7 @@
   </head>
 
   <body>
+  <%# ログイン状態でない場合、ヘッダー非表示 %>
   <%= render 'partial/header' if current_user %>
   <% if flash[:notice] %>
       <div class="alert alert-info">
