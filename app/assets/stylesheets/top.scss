@@ -37,6 +37,16 @@
           }
         }
         }
+        .cardWrapper {
+          overflow-y: scroll;
+          max-height: 76vh;
+          .addCard {
+            color: #8c8c8c;
+            &_link {
+              color: #8c8c8c;
+            }
+          }
+        }
       }
     }
   }
