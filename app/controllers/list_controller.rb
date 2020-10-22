@@ -26,6 +26,11 @@ class ListController < ApplicationController
     end
   end
 
+  def destroy
+    @list.destroy
+    redirect_to :root
+  end
+
   private
     def list_params
       params.require(:list).permit(:title).merge(user: current_user)
