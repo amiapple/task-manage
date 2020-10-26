@@ -43,7 +43,6 @@ has_many :lists
 Association
 
 belongs_to :user
-
 has_many :cards
 
 
@@ -52,7 +51,7 @@ has_many :cards
 | Column       | Type   | Options     |
 | ------------ | ------ | ----------- |
 | title        | string | null: false |
-| memo        | string | null: false |
+| memo        | text | null: false |
 | list-id       | string | null: false |
 
 Association
