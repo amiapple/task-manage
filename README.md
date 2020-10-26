@@ -28,12 +28,23 @@ Things you may want to cover:
 | ------------ | ------ | ----------- |
 | title        | string | null: false |
 
+Association
+
+has_many :lists
+
+
 ## lists テーブル
 
 | Column       | Type   | Options     |
 | ------------ | ------ | ----------- |
 | title        | string | null: false |
 | user-id        | string | null: false |
+
+Association
+
+belongs_to :user
+has_many :cards
+
 
 ## cards テーブル
 
@@ -43,6 +54,9 @@ Things you may want to cover:
 | memo        | string | null: false |
 | list-id       | string | null: false |
 
+Association
+
+belongs_to :list
 
 
 ## 概要
