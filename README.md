@@ -30,7 +30,7 @@ Things you may want to cover:
 
 Association
 
-has_many :lists
+- has_many :lists
 
 
 ## lists テーブル
@@ -42,8 +42,8 @@ has_many :lists
 
 Association
 
-belongs_to :user
-has_many :cards
+- belongs_to :user
+- has_many :cards
 
 
 ## cards テーブル
@@ -56,7 +56,7 @@ has_many :cards
 
 Association
 
-belongs_to :list
+- belongs_to :list
 
 
 ## 概要
