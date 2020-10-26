@@ -65,9 +65,6 @@ Association
 ## アプリ名
 タスク管理アプリ
 
-## 説明
-
-
 ## URL
 https://task-manage0922.herokuapp.com/
 
@@ -107,5 +104,4 @@ WebブラウザGoogle Chromeの最新版を利用してアクセスしてくだ�
 紙に書き留めるよりも簡単に、今抱えているタスクを確認できます。
 
 #### タスク新規作成
-![タスク作成](https://github.com/amiapple/task-app/blob/master/images/スクリーンショット%202020-10-07%2020.39.38.png)
 トップ画面から「追加」をクリックすると新規作成画面になります。
