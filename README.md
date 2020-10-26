@@ -28,6 +28,21 @@ Things you may want to cover:
 | ------------ | ------ | ----------- |
 | title        | string | null: false |
 
+## lists テーブル
+
+| Column       | Type   | Options     |
+| ------------ | ------ | ----------- |
+| title        | string | null: false |
+| user-id        | string | null: false |
+
+## cards テーブル
+
+| Column       | Type   | Options     |
+| ------------ | ------ | ----------- |
+| title        | string | null: false |
+| memo        | string | null: false |
+| list-id       | string | null: false |
+
 
 
 ## 概要
