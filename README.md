@@ -114,4 +114,4 @@ WebブラウザGoogle Chromeの最新版を利用してアクセスしてくだ�
 #### カード新規作成・編集
 リスト作成後、「カードを追加」からカードを新規作成できます。<br>
 タイトルにタスクの名前、メモにタスクの詳細（内容や期限等）を自由に記述できます。<br>
-![2020-10-28 3.29.46.png](https://github.com/amiapple/task-manage/commit/14275591e176ec29f1f00548c97c5e3ebce54735)
+![2020-10-28 3.29.46.png](https://github.com/amiapple/task-manage/blob/master/スクリーンショット%202020-10-28%203.29.46.png)
