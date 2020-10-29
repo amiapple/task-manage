@@ -26,7 +26,9 @@ Things you may want to cover:
 
 | Column       | Type   | Options     |
 | ------------ | ------ | ----------- |
-| title        | string | null: false |
+| name        | string | null: false |
+| email        | string | null: false |
+| password        | string | null: false |
 
 Association
 
@@ -82,6 +84,9 @@ WebブラウザGoogle Chromeの最新版を利用してアクセスしてくだ�
 アプリなら紙に書くよりも加筆修正や削除も簡単で、見易いものが作成でき、常に見返すことができます。<br>
 本アプリでは「リスト」で軸を設定し、リストの中に「カード」としてやりたいこと等タスクを記入します。<br>
 カードはタイトルとメモが記入でき、メモ欄にタスクの詳細を自由に記述できます。
+
+## ER図
+![2020-10-26 20.18.45.png](https://github.com/amiapple/task-manage/blob/master/スクリーンショット%202020-10-26%2020.18.45.png)
 
 ## 要件
 ### ユーザー新規登録
