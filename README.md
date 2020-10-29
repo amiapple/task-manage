@@ -86,7 +86,7 @@ WebブラウザGoogle Chromeの最新版を利用してアクセスしてくだ�
 カードはタイトルとメモが記入でき、メモ欄にタスクの詳細を自由に記述できます。
 
 ## ER図
-![2020-10-26 20.18.45.png](https://github.com/amiapple/task-manage/blob/master/スクリーンショット%202020-10-26%2020.18.45.png)
+![2020-10-29 0.54.47.png](https://github.com/amiapple/task-manage/blob/master/スクリーンショット%202020-10-29%200.54.47.png)
 
 ## 要件
 ### ユーザー新規登録
