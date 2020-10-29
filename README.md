@@ -63,7 +63,7 @@ Association
 タスク・やるべきこと・やりたいことを整理・見直し、管理するプリケーション
 
 ## アプリ名
-task manage app
+task manage app　（タスク・マネージ・アプリ）
 
 ## URL
 https://task-manage0922.herokuapp.com/
@@ -115,12 +115,13 @@ WebブラウザGoogle Chromeの最新版を利用してアクセスしてくだ�
 ## 実装した機能について
 ### リスト・カード一覧表示（トップページ）
 トップページには、これまでに作成したリストとカードが一覧で表示されます。<br>
+アプリにアクセスすると、いつでもタスク状況を確認できます。<br>
 ![2020-10-26 20.18.45.png](https://github.com/amiapple/task-manage/blob/master/スクリーンショット%202020-10-26%2020.18.45.png)
 
 ### ユーザー新規登録
 はじめにユーザー登録が必要です。<br>
 登録が完了するとトップページに移行し、アプリが利用できます。<br>
-![2020-10-26 20.18.45.png](https://github.com/amiapple/task-manage/blob/master/スクリーンショット%202020-10-26%2020.18.45.png)
+![2020-10-28 22.34.03.png](https://github.com/amiapple/task-manage/blob/master/スクリーンショット%202020-10-28%2022.34.03.png)
 
 ### カード新規作成・編集
 リスト作成後、「カードを追加」からカードを新規作成できます。<br>
