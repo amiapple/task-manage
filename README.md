@@ -40,7 +40,7 @@ Association
 | Column       | Type   | Options     |
 | ------------ | ------ | ----------- |
 | title        | string | null: false |
-| user-id        | string | null: false |
+| user-id        | integer | null: false |
 
 Association
 
@@ -54,7 +54,7 @@ Association
 | ------------ | ------ | ----------- |
 | title        | string | null: false |
 | memo        | text | null: false |
-| list-id       | string | null: false |
+| list-id       | integer | null: false |
 
 Association
 
